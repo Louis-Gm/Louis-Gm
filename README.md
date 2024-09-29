@@ -14,6 +14,6 @@
 
 #### Looking to collaborate on anything to do with remote sensing, photogrammetry or image classification
 
-##### 📫 Best place to reach me: lvgra@ulaval.ca
+#### 📫 Best place to reach me: lvgra@ulaval.ca
 ****
 
